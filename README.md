@@ -1,4 +1,4 @@
-# Project-Capstone-Modul-2
+# Airplane Satisfaction Analysis
 This an analysis for Airplane Satisfaction Factor. An airline company is hiring a data analyst to figure out what are their strengths, weaknesses and factors importants for passengers.
 
 Data preparation stage includes checking missing values, filling in missing values, replacing irrational data with median because data is not normally distributed and creating average rating column.
